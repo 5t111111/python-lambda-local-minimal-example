@@ -13,7 +13,7 @@ And activate it:
 $ . bin/activate
 ```
 
-Note that if you are using zsh/fish, source `acivate.zsh` / `activate.fish` instead.
+Note that if you are using csh/fish, source `acivate.csh` / `activate.fish` instead.
 
 Install requirements:
 
